@@ -9,5 +9,5 @@ chmod +x run.sh
 ```
 
 Preview:
-![Preview 1](screenshots/1.png)
-![Preview 2](screenshots/2.png)
+![Preview 1](screenshots/1.jpg)
+![Preview 2](screenshots/2.jpg)
